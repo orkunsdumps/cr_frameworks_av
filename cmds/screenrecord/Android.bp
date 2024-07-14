@@ -43,7 +43,6 @@ cc_binary {
         "libmedia",
         "libmediandk",
         "libmedia_omx",
-        "libmedia_codeclist",
         "libutils",
         "libbinder",
         "libstagefright_foundation",
